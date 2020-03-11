@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/bazzy/Documents/Grad School/Quarter 6 - Winter/SE 441 Continuous Delivery & DevOps/Week 7/hw5/spring-petclinic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
